@@ -1,6 +1,5 @@
 '''
 Usage
-
 python readasr.py asroutputfile dictionaryfile
 '''
 import sys
